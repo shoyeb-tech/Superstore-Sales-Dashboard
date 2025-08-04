@@ -64,5 +64,6 @@ These slicers allow users to view specific parts of the data as needed.
 # Conclusion
  This Power BI dashboard makes it easier to understand sales performance with the help of clean visuals and filters. It is     useful for sales teams, managers, and analysts who want to make data-driven decisions quickly and effectively.
 
-#
+# Dashboard Screenshot
+  https://github.com/shoyeb-tech/Superstore-Sales-Dashboard/blob/main/Snapshot%20of%20Dashboard.png
 
